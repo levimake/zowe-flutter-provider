@@ -1,0 +1,8 @@
+"Android Optimization Fixes"
+    Disabled R8 and enabled AndroidX for optimized builds.
+
+
+"Fixed Android Build Issues" (Apr 30 2020)
+    The app was not building for android with the error message 
+    "More than one file was found with OS independent path 
+    'META-INF/proguard/androidx-annotations.pro'"
