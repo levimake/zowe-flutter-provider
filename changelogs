@@ -1,4 +1,4 @@
-"Android Optimization Fixes"
+"Android Optimization Fixes" (Apr 30 2020)
     Disabled R8 and enabled AndroidX for optimized builds.
 
 
